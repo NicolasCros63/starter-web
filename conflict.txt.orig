@@ -1,0 +1,8 @@
+ligne1
+<<<<<<< HEAD
+ligne2
+Je modifie la ligne 3
+=======
+Je modifie la ligne2
+ligne3
+>>>>>>> realwork
